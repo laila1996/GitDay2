@@ -6,4 +6,6 @@ public class SearchPage {
 
     // search icon
 
+
+    // search updated
 }
